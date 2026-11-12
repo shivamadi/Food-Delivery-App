@@ -1,0 +1,9 @@
+{
+  "expo": {
+    "name": "Food-Delivery-App",
+    "slug": "Food-Delivery-App",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light"
+  }
+}
